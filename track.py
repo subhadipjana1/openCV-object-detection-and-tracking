@@ -1,5 +1,5 @@
 
-#link the library packages
+#Import reqquired libraries
 import numpy as np
 import cv2
 import math
