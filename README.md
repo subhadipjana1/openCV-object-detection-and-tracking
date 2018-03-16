@@ -1,11 +1,11 @@
 # openCV-object-detection-and-tracking
 A real time object detection and tracking module using camshift algorithm
 
-Execution Instruction:
+Execution Instructions:
 
-First install opencv3-python3, if you are on ubuntu 16.04 follow this tutorial https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+First install opencv3-python3. If you are on ubuntu 16.04 follow this tutorial https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 
-To execute the program : ```python3 track.py```
+Now to execute the program, open terminal and type : ```python3 track.py```
 
 Some references :
 
